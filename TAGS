@@ -1,0 +1,32 @@
+
+./test/Spec.hs,15
+main main0,1
+
+./app/Main.hs,37
+module Main Main0,1
+main main4,5
+
+./Setup.hs,15
+main main1,2
+
+./src/Lib.hs,505
+module Lib Lib0,1
+someFunc someFunc2,3
+type Stack Stack7,8
+pop pop9,10
+push push12,13
+peek peek15,16
+stackManip stackManip18,19
+data State State24,25
+data State s a = State State24,25
+runState runState26,27
+instance Functor Functor (State s)29,30
+  fmap fmap30,31
+instance Applicative Applicative (State s)36,37
+  pure pure37,38
+  (S(Statefsab)39,40
+instance Monad Monad (State s)45,46
+  (S(Stateg)46,47
+pop' pop'51,52
+push' push'54,55
+stackManip2 stackManip257,58
