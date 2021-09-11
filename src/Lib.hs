@@ -1,10 +1,5 @@
 module Lib where
 
-someFunc :: IO ()
-someFunc = putStrLn "someFunc"
-
-
-
 type Stack = [Int]
 
 pop :: Stack -> (Int, Stack)
