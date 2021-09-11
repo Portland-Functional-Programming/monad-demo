@@ -4,7 +4,7 @@ cabal-version: 1.12
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: b42e270c25036377c6e3be49bb5d24b72efff257a4e1352453fcdd97ecabc458
+-- hash: ec242bc2709fa6bdfad5356ddefc0cde89614dfe562e1e4edcb100f441d0273e
 
 name:           monad-demo
 version:        0.1.0.0
@@ -27,7 +27,7 @@ source-repository head
 
 library
   exposed-modules:
-      Lib
+      Stack
   other-modules:
       Paths_monad_demo
   hs-source-dirs:
